@@ -28,9 +28,9 @@ Data Adapter: mac-oui
 Cache:        mac-oui
 ```
 
-3. Third: use this lookup table in your pipelines
+3. use this lookup table in your pipelines
 
-###### Pipeline rule example:
+Pipeline rule example:
 ```
 rule "MAC-vendor"
 when has_field ("mac")
