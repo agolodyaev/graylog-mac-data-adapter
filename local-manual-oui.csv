@@ -4,7 +4,7 @@ MANUAL,00005E0002,VRRP IPv6,
 MANUAL,01005E,Multicast,
 MANUAL,01005E0,IPv4 Multicast,
 MANUAL,01005E8,MPLS multicast,
-MANUAL,0180C2000000,LACP or STP, ### всё идущее ниже из https://en.wikipedia.org/wiki/Multicast_address#Ethernet
+MANUAL,0180C2000000,LACP or STP, ### all lines below from https://en.wikipedia.org/wiki/Multicast_address#Ethernet
 MANUAL,0180C2000001,Ethernet flow control,
 MANUAL,0180C2000002,LACP,
 MANUAL,0180C2000003,LACP or IEEE 802.1X,
